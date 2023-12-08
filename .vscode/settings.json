@@ -1,0 +1,8 @@
+{
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features",
+    "editor.formatOnSave": true,
+  },
+  "css.lint.idSelector": "error",
+  "css.lint.unknownVendorSpecificProperties": "warning"
+}
