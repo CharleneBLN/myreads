@@ -4,5 +4,6 @@
     "editor.formatOnSave": true,
   },
   "css.lint.idSelector": "error",
-  "css.lint.unknownVendorSpecificProperties": "warning"
+  "css.lint.unknownVendorSpecificProperties": "warning",
+  "css.lint.zeroUnits": "error"
 }
